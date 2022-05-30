@@ -26,12 +26,12 @@ AI기술을 활용하여 세상에 영향력을 주는 소프트웨어 엔지니
 - 파이썬 및 쟝고 사용
 
 
-2021.06~2021.08) 자신만의 앨범 만들기 및 공유
+2021.06~2021.08) <a href="https://github.com/woominsik/image_classifier">자신만의 앨범 만들기 및 공유</a>
 - [소스코드](https://github.com/woominsik/image_classifier)
 - 파이썬 및 쟝고 사용
 
 
-2021.09~2021.12) <a href="./Eyes_On_You">실시간 cctv를 통한 피보호자 인식</a>
+2021.09~2021.12) <a href="https://github.com/woominsik/Eyes_On_You">실시간 cctv를 통한 피보호자 인식</a>
 - [소스코드](https://github.com/woominsik/Eyes_On_You)
 - 스프링 및 자바, MySQL 사용
 
